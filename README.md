@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nidhi;Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Nidhi Singh;Full+Stack+Developer;Creative+Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,17 +10,37 @@
 
 ### 🚀 The Mission
 - 💻 **Full-Stack:** Transforming complex logic into scalable applications with a focus on high-performance architecture.
-- 🧩 **Problem Solver:** Competitive programmer at heart; I treat every backend bug as a logic puzzle to be optimized.
-- 🏗️ **Infrastructure:** Architecting robust backend systems and automated deployment pipelines that scale with ease.
-- ⚡ **Current Focus:** Turning 'it works on my machine' into 'it scales on the cloud.'
+- ⚡ **. I treat backend systems like a competitive programming challenge: looking for the most efficient path to scalability.
 
 ### 🛠️ My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws,py,cpp,figma,tailwind" />
-  </a>
-</p>
 
+<table align="center">
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+<br><strong>Languages</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+ <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native"/>
+<br><strong>Frontend</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase" />
+<br><strong>Backend & Databases</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,vercel,netlify" />
+<br><strong>DevOps & Tools</strong>
+</td>
+</tr>
+</table>
 ---
 
 ### 📊 GitHub Power Stats
