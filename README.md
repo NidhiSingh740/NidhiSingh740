@@ -8,61 +8,25 @@
 
 ---
 
-### ✨ Connect with me ✨
-<div align="center">
-  <a href="mailto:nidhi2209singh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nidhi2209singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BC7P1VHgTs/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/nidhi_singh_22">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</div>
-
+### 🚀 The Mission
+- 💻 **Full-Stack:** Transforming complex logic into scalable applications with a focus on high-performance architecture.
+- 🧩 **Problem Solver:** Competitive programmer at heart; I treat every backend bug as a logic puzzle to be optimized.
+- 🏗️ **Infrastructure:** Architecting robust backend systems and automated deployment pipelines that scale with ease.
+- ⚡ **Current Focus:** Turning 'it works on my machine' into 'it scales on the cloud.'
 
 ### 🛠️ My Tech Stack
-
-## 💻 Languages & Tools
-
-<table align="center">
-<tr>
-<td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
-<br><strong>Languages</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="900px">
- <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native"/>
-<br><strong>Frontend</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-<br><strong>Backend & Databases</strong>
-</td>
-</tr>
-<tr>
-<td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
-<br><strong>DevOps & Tools</strong>
-</td>
-</tr>
-</table>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws,py,cpp,figma,tailwind" />
+  </a>
+</p>
 
 ---
 
 ### 📊 GitHub Power Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NidhiSingh740&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nidhi's Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NidhiSingh740&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NidhiSingh740&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NidhiSingh740&theme=tokyonight&hide_border=true" />
 </div>
 
 <br/>
@@ -75,9 +39,21 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NidhiSingh740/NidhiSingh740/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-### 🚀 Quick Bio
-- 💻 **Full-Stack:** Building scalable applications with a focus on performance and user experience.
-- ⚡Specializing in high-performance backend systems and automated deployment
+
 ---
 
-
+<div align="center">
+  <h3>✨ Connect with me ✨</h3>
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/LINKEDIN_USERNAME/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/LEETCODE_USERNAME/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/CODECHEF_USERNAME">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</div>
