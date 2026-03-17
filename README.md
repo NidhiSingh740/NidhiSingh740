@@ -8,16 +8,54 @@
 
 ---
 
-### 🚀 Quick Bio
-- 💻 **Full-Stack:** Building scalable applications with a focus on performance and user experience.
-- ⚡Specializing in high-performance backend systems and automated deployment
+### ✨ Connect with me ✨
+<div align="center">
+  <a href="mailto:nidhi2209singh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/nidhi2209singh/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/BC7P1VHgTs/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.codechef.com/users/nidhi_singh_22">
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
+</div>
+
 
 ### 🛠️ My Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,mongodb,docker,aws,py,cpp,figma,tailwind" />
-  </a>
-</p>
+
+## 💻 Languages & Tools
+
+<table align="center">
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
+<br><strong>Languages</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+ <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native"/>
+<br><strong>Frontend</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<br><strong>Backend & Databases</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="900px">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
+<br><strong>DevOps & Tools</strong>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -37,21 +75,9 @@
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/NidhiSingh740/NidhiSingh740/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
+### 🚀 Quick Bio
+- 💻 **Full-Stack:** Building scalable applications with a focus on performance and user experience.
+- ⚡Specializing in high-performance backend systems and automated deployment
 ---
 
-### ✨ Connect with me ✨
-<div align="center">
-  <a href="mailto:nidhi2209singh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/nidhi2209singh/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BC7P1VHgTs/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.codechef.com/users/nidhi_singh_22">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-  </a>
-</div>
+
