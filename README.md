@@ -17,26 +17,26 @@
 <table align="center">
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,ts" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts" />
 <br><strong>Languages</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="900px">
- <img src="https://skillicons.dev/icons?i=react,tailwind,html,css,bootstrap" />
+ <img src="https://skillicons.dev/icons?i=react,tailwind,html,css" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" title="React Native"/>
 <br><strong>Frontend</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb,mysql,sqlite,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 <br><strong>Backend & Databases</strong>
 </td>
 </tr>
 <tr>
 <td align="center" width="900px">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,gcp,vscode,postman,vercel,netlify" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,netlify" />
 <br><strong>DevOps & Tools</strong>
 </td>
 </tr>
