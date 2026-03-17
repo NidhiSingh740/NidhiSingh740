@@ -9,8 +9,8 @@
 ---
 
 ### 🚀 Quick Bio
-- 🔭 I’m currently working on **Exotic Projects**
-- ⚡ Fun fact: **I code coffee into software.**
+- 💻 **Full-Stack:** Building scalable applications with a focus on performance and user experience.
+- ⚡Specializing in high-performance backend systems and automated deployment
 
 ### 🛠️ My Tech Stack
 <p align="left">
